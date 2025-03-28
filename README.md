@@ -1,8 +1,8 @@
          *PERSONAL WEBSITE*
             *Overview*
-  this is a personal website that showcases different aspects of my life.
+  This is a personal website that showcases different aspects of my life.
   The wbsite contains six pages ,each covering a unique topic .
-  The website uses HTML, CSS, and JavaScript to create an engaging user experience. It has a color scheme focused on white and lavender, with black accents for contrast
+  The website uses HTML, CSS, and JavaScript to create an engaging user experience. It has a color scheme focused on white and elegant lavender, with black accents for contrast
       *Features*
 Six Pages: Each page covers a different aspect of my life, including personal information, achievements, projects, interests, and more.
 
