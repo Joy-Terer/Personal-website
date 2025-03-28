@@ -1,0 +1,31 @@
+WEB HOSTING AND DOMAIN NAME EXPLANATION
+To make my website accessible online , i will use *GitHub* for version control and *Netlify* for web hosting.
+
+         WEB HOSTING(Netlify)
+*Netlify* integrates well with *GitHub* allowing easy update of data and also provides custom domain support , HTTPS security and good performance.
+
+-The website source code will be stored in a GitHub repository , https://github.com/Joy-Terer/Personal-website , and Netlify will detect and fetch updates automatically whenever  i make changes.
+
+              DOMAIN NAME
+Automatically , Netlify provides a free subdomain (joy-terer.com)
+
+I can also use a custom domain like (www.joy-terer.com), purchased from a domain registrar
+
+Connect domain to Netlify by updating the DNS settings to aline with Netlify's server
+
+              HOW THEY WORK TOGETHER
+1. I will upload my website files to my GitHub.
+
+2. Netlify will deploy the  website after authorisation from github and generate a public link.
+
+3. After i purchase a custoom domain , i will link it to my Netlify,
+
+4.When somone enters my domain name , the DNS directs them to my Netlify-hosted site
+
+This setup will ensure the site is accessible , secure and user-friendlly.
+
+
+
+     
+
+
