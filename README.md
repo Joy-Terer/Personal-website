@@ -1,5 +1,5 @@
-PERSONAL WEBSITE
-      *Overview*
+         *PERSONAL WEBSITE*
+            *Overview*
   this is a personal website that showcases different aspects of my life.
   The wbsite contains six pages ,each covering a unique topic .
   The website uses HTML, CSS, and JavaScript to create an engaging user experience. It has a color scheme focused on white and lavender, with black accents for contrast
